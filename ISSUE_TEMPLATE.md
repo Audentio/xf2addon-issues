@@ -4,6 +4,10 @@ Add-on Version:
 
 XenForo Version:
 
+Operating System (and Version):
+
+Browser Name (and Version):
+
 Summary of issue:
 
 Detailed steps to reproduce the issue:
